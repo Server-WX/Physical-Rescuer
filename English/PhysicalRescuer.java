@@ -14,6 +14,10 @@ import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.util.List;
 
+/*
+* This is a English version.
+*/
+
 public class PhysicalRescuer {
     public static void main(String[] args) {
 
