@@ -15,10 +15,8 @@ import java.nio.charset.StandardCharsets;
 import java.util.List;
 
 /* 
-
-    这是中文版
-
- */
+* 这是中文版
+*/
 
 public class PhysicalRescuer {
     public static void main(String[] args) {
